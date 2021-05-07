@@ -2,7 +2,7 @@
 main:
 
   - title: "CV"
-    url: https://github.com/CallowBrainProject/callowbrainproject.github.io/blob/master/_pages/CV.CallowD_05042021.pdf
+    url: /cv_html/
     
   - title: "Publications"
     url: /publications/

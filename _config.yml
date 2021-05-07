@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "PhD Candidate"
 title_separator          : "-"
 name                     : &name "Daniel Callow"
-description              : &description "personal description"
+description              : &description "Cognitive Neuroscience / Kinesiology Graduate Student interested in how lifestyle factors can preserve critical age and pathologically susceptible memory networks in older adults"
 url                      : https://callowbrainproject.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "callowbrainproject.github.io"
@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Daniel"
+  name             : "Daniel Callow"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Cognitive Neuroscience / Kinesiology Graduate Student interested in how lifestyle factors can preserve critical age and pathologically susceptible memory networks in older adults"
   location         : "University of Maryland College Park"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Daniel+Callow&sort=pubdate"
   googlescholar    : "https://scholar.google.com/citations?user=6jxHQMIAAAAJ&hl=en"
   email            : "dcallow@umd.edu"
   researchgate     : "https://www.researchgate.net/profile/Daniel-Callow-2"
